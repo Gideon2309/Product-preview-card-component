@@ -1,0 +1,64 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.container {
+    display: flex;
+    text-align: justify  ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+.container  img{
+    width: 300px;
+    
+    
+    
+}
+body{
+    background-color:hsl(30, 38%, 92%);
+}
+
+.Main{
+    padding-left: 30px;
+    padding-right: 20px;
+    background: white;
+    width: 300px;  
+    
+}
+.Main h3{
+    letter-spacing: 5px;
+}
+
+button {
+    padding: 10px;
+}
+
+button{
+    background-color: Darkcyan;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 30px;
+    border: none;
+   
+}
+
+.Main button img{
+    width: 25px;
+    height: 18px;
+}
+
+.price {
+    color: darkcyan;
+    display: flex;
+    
+}
+span{
+    color: black;
+    text-decoration: line-through;
+    font-size: small;
+    margin-left: 20px;
+}
+
